@@ -1,0 +1,8 @@
+.vscode
+.bsp
+.idea
+.metals
+
+**/target
+
+**/Cargo.lock
